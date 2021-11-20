@@ -2,15 +2,15 @@
 
 #### Your name
 
-TODO
+Estelee Eng
 
 #### Your section leader's name
 
-TODO
+Zhenyu Zhao
 
 #### Project title
 
-TODO
+Gonki
 
 ***
 
@@ -18,12 +18,12 @@ Short answers for the below questions suffice. If you want to alter your plan fo
 
 #### What have you done for your project so far?
 
-TODO
+We created a randomly generated set of rocks, user can move the car to avoid rocks, collision has been implemented which ends the game and exits the window entirely.
 
 #### What have you not done for your project yet?
 
-TODO
+We haven't add more obstacles (trees, other cars perhaps), a score counter, and power ups. We also haven't made it harder as time passes.
 
 #### What problems, if any, have you encountered?
 
-TODO
+Currently struggling to add powers up and how to adjust the user's speed and vulnerability. And also another problem would be to how to increase difficulty as time passes (how to make it harder over that time).
